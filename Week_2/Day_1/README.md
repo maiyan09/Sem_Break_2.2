@@ -258,5 +258,3 @@ After Day 8, you can:
 ✔ Write basic professional documentation
 
 ---
-```
-```
