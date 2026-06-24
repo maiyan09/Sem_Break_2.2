@@ -1,0 +1,9 @@
+{
+    "firsr_name" : "Samiur Rahman",
+    "fast_name" : "Maiyan",
+    "age" : 22,
+    "is_active": true,
+    "gpa": 3.75,
+    "major": "Computer Science",
+    "courses": ["Data Structures", "Web Development", "Database Systems"]
+}
