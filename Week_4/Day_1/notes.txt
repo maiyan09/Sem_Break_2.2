@@ -1,0 +1,14 @@
+Creating notes file
+
+Git is a version control system.
+
+Common commands:
+git init
+git add
+git commit
+
+Practice creating repositories and making commits regularly.
+
+Keep practicing Git every day to improve.
+
+This line added after creating branch and switching branch 
