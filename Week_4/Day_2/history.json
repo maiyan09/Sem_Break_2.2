@@ -1,0 +1,12 @@
+[
+    {
+        "time": "2026-07-09 00:35:27",
+        "question": "hello",
+        "answer": "Hello! I'm your friendly study assistant. What can I help you learn today?"
+    },
+    {
+        "time": "2026-07-09 00:36:59",
+        "question": "what is 2+2",
+        "answer": "That's a great question to start with!\n\n2 + 2 equals **4**.\n\nThink of it like this:\nIf you have **2** apples, and someone gives you **2** more apples, you now have **4** apples!\n\nIn Python, you'd write it like this:\n```python\nprint(2 + 2)\n# Output: 4\n```"
+    }
+]
